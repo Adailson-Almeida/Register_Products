@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vee-validate": "^4.13.1",
     "vue": "^3.4.21",
+    "vue-the-mask": "^0.11.1",
     "vuetify": "^3.6.9"
   },
   "devDependencies": {
