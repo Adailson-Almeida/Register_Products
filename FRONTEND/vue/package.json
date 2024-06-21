@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
     "vee-validate": "^4.13.1",
     "vue": "^3.4.21",
     "vue-the-mask": "^0.11.1",
